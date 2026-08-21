@@ -1,17 +1,12 @@
 [
   {
-    "name": "Tinhlagi Tivi",
-    "url": "https:\/\/tinhlagi.pro\/tv.json",
+    "name": "Tinhlagi Tivi (M3U)",
+    "url": "https:\/\/tinhlagi.pro\/tv.m3u",
     "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
   },
   {
     "name": "Tinhlagi Football (M3U)",
     "url": "https:\/\/tinhlagi.pro\/s.m3u",
-    "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
-  },
-  {
-    "name": "TINHLAGI.PRO",
-    "url": "https:\/\/tinhlagi.pro\/s.json",
     "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
   },
   {
