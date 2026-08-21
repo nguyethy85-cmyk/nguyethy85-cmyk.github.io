@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tinhlagi Tivi",
+    "url": "https:\/\/tinhlagi.pro\/tv.json",
+    "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
+  },
+  {
+    "name": "Tinhlagi Football (M3U)",
+    "url": "https:\/\/tinhlagi.pro\/s.m3u",
+    "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
+  },
+  {
+    "name": "TINHLAGI.PRO",
+    "url": "https:\/\/tinhlagi.pro\/s.json",
+    "logo": "https:\/\/tinhlagi.pro\/logo.jpg"
+  },
+  {
+    "name": "Sói Xám TV",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/tv",
+    "logo": "https://nguyethy85-cmyk.github.io/logo.png"
+  },
+  {
+    "name": "ONPlus",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=165935884",
+    "logo": "https://onplus.com.vn/logo/logo.png"
+  },
+  {
+    "name": "VTVprime",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1488310905",
+    "logo": "https://vtvprime.vn/logo.png"
+  },
+  {
+    "name": "VTVGo",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=596859718",
+    "logo": "https://vtvgo.vn/favicon.ico"
+  },
+  {
+    "name": "TV360",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=482349806",
+    "logo": "https://img-zlr2.tv360.vn/tv360-static/static/web/favicon/android-chrome-512x512.png"
+  },
+  {
+    "name": "MyTV",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=953679284",
+    "logo": "https://s12811.cdn.mytvnet.vn/vimages/2a/a1/14/46/62/23/2a146-pb2ceventlogosmarttv-logo_b2c-unkn.png"
+  },
+  {
+    "name": "MyTV (DRM)",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1887906734",
+    "logo": "https://s12811.cdn.mytvnet.vn/vimages/2a/a1/14/46/62/23/2a146-pb2ceventlogosmarttv-logo_b2c-unkn.png"
+  },
+  {
+    "name": "FPTPlay",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1486116174",
+    "logo": "https://images.fptplay53.net/media/photo/OTT/2025/05/26/logowebsite4x_1748221195181.png"
+  },
+  {
+    "name": "VieON",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=259285699",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Vieon_logo_.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+  },
+  {
+    "name": "ONLiveTV",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=353891874",
+    "logo": "https://onplus.com.vn/logo/logo.png"
+  },
+  {
+    "name": "Kênh riêng",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1960379859",
+    "logo": "https://media.istockphoto.com/id/464516754/vi/vec-to/qu%E1%BB%91c-k%E1%BB%B3-vi%E1%BB%87t-nam.jpg?s=612x612&w=0&k=20&c=20_fpqn2SzR-BYCcTgc77EuiudsNnh1c0mVXVJzSNbk="
+  },
+  {
+    "name": "SDTV",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=657422603",
+    "logo": "https://static.wikia.nocookie.net/logos/images/b/be/SDTV_logo_South.png/revision/latest?cb=20201121095655&path-prefix=vi"
+  },
+  {
+    "name": "SCTVonline",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1272626895",
+    "logo": "https://vimai-production.s3-ap-southeast-1.amazonaws.com/media/tenant/sctv/logo/2023/12/dcb5d398.png"
+  },
+  {
+    "name": "VTC Play",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=623391867",
+    "logo": "https://static.wikia.nocookie.net/logos/images/a/af/VTC_Play.png/revision/latest?cb=20251231135851&path-prefix=vi"
+  },
+  {
+    "name": "LaoTV",
+    "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1948049432",
+    "logo": "https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest?cb=20250107102037&path-prefix=vi"
+  }
+]
