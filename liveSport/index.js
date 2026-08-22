@@ -3,7 +3,7 @@
     const APIsport = await getAPI("https://soixamapi.vercel.app/api/sports");
     const sportsHTML = APIsport.data.map(i => {
         return `
-            <a href="/liveSport/index.html?id=${i.id}"
+            <a href="https://lmg159z.github.io/soixamtv2/liveSport/index.html?id=${i.id}"
                  style="${i.status != 3  ? '':'display:none;'}"
               >
                 <div class="match-card">
