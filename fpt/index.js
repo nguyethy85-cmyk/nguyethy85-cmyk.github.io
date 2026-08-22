@@ -5,7 +5,7 @@
 
     // const API = await getAPI("https://soixamapi.vercel.app/api/fpt");
 // http://localhost:3000/api/fpt
-    const API = await getAPI("http://localhost:3000/api/fpt");
+    const API = await getAPI("https://soixamapi.vercel.app/api/fpt");
     const data = API.map(i => ({
         name: i.name,
         url: decodeCustom(i.url),
@@ -80,7 +80,7 @@ async function createChannel(channel) {
 
     const link = document.createElement("a");
     link.className = "video-link";
-    link.href = `/ch/index.html?channel=${channel.id}`;
+    link.href = `https://lmg159z.github.io/soixamtv2/ch/index.html?channel=${channel.id}`;
     link.target = "_self";
 
     const video = document.createElement("video");
