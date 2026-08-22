@@ -84,19 +84,4 @@
     "url": "https:\/\/soixamapi.vercel.app\/api\/iptv?id=1948049432",
     "logo": "https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest?cb=20250107102037&path-prefix=vi"
   }
-  {
-    "name": "VMTTV",
-    "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv",
-    "logo": "https://thangmath.github.io/sptv/vmttv.png"
-  },
-  {
-    "name": "Hội Quán VIP",
-    "url": "https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u",
-    "logo": "https://xem.dpdns.org/HoiQuan_Mini.png"
-  },
-  {
-    "name": "VATV × SXTV",
-    "url": "https://tv.vietanhtv.top/tv/",
-    "logo": "https://media.istockphoto.com/id/464516754/vi/vec-to/qu%E1%BB%91c-k%E1%BB%B3-vi%E1%BB%87t-nam.jpg?s=612x612&w=0&k=20&c=20_fpqn2SzR-BYCcTgc77EuiudsNnh1c0mVXVJzSNbk="
-  }
 ]
