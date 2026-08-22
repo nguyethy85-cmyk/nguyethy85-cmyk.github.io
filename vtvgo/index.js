@@ -41,7 +41,7 @@
 
 // function renderVideoCard(item) {
 //     return `
-//         <a href="/stream/index.html?id=${item.id}&type=${item.type}">
+//         <a href="https://lmg159z.github.io/soixamtv2/vtvgo/stream/index.html?id=${item.id}&type=${item.type}">
 //             <div class="video-card">
 //                 <div class="thumbnail-wrapper">
 //                     <img src="${item.thumbnail_horizontal}" 
@@ -97,7 +97,7 @@ async function listVTVgo() {
                     const items = i.channels.map(k => {
                         return `
                             <!-- Video Item 1 -->
-                            <a href="/vtvgo/stream/index.html${k.remote_data ? "?id=" + encodeCustom(k.remote_data.url) : "" }"  >
+                            <a href="https://lmg159z.github.io/soixamtv2/vtvgo/stream/index.html${k.remote_data ? "?id=" + encodeCustom(k.remote_data.url) : "" }"  >
                         <div class="video-card">
                             <div class="thumbnail-wrapper">
                                 <!-- Ảnh đại diện video -->
@@ -111,7 +111,7 @@ async function listVTVgo() {
                         </div></a>
                     `
                     })
-                    return `<a href="/vtvgo/index.html${i.remote_data ? "?listID=" + encodeCustom(i.remote_data.url) : "" }" ><h2 class="section-header">${i.name}</h2></a><div class="video-grid">${items.join("")}</div>`
+                    return `<a href="https://lmg159z.github.io/soixamtv2/vtvgo/index.html${i.remote_data ? "?listID=" + encodeCustom(i.remote_data.url) : "" }" ><h2 class="section-header">${i.name}</h2></a><div class="video-grid">${items.join("")}</div>`
                 }
             } else { return }
         })
@@ -131,7 +131,7 @@ async function listItemVTVgo(id) {
     if (API){
         const card = API.channels.map(i =>{
             return  `
-                            <a href="/vtvgo/stream/index.html${i.remote_data ? "?id=" + encodeCustom(i.remote_data.url) : "" }" >
+                            <a href="https://lmg159z.github.io/soixamtv2/vtvgo/stream/index.html${i.remote_data ? "?id=" + encodeCustom(i.remote_data.url) : "" }" >
                         <div class="video-card">
                             <div class="thumbnail-wrapper">
                                 <!-- Ảnh đại diện video -->
@@ -158,7 +158,7 @@ if (getQueryParam("listID") === null) {
     listVTVgo()
 }
 else {
-    // list(`https://onplus.com.vn/_next/data/kEUCga5mXHIUbhk4wZPyG/category/detail/${getQueryParam("id")}.json`)
+ list(`https://onplus.com.vn/_next/data/kEUCga5mXHIUbhk4wZPyG/category/detail/${getQueryParam("id")}.json`)
     listItemVTVgo(getQueryParam("listID"))
 }
 
