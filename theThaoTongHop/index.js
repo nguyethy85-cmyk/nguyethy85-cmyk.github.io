@@ -1,7 +1,7 @@
 
 async function sports(type = 1, slug) {
     const esport = document.getElementById("esport-content");
-    const API = await getAPI("./slug.json")
+    const API = await getAPI("https://lmg159z.github.io/soixamtv2/theThaoTongHop/slug.json")
     console.log(API)
     if (type === 1) {
         HeaderTitle.set({
@@ -14,7 +14,7 @@ async function sports(type = 1, slug) {
             API.slug.map(async (i) => {
                 const dataSlug = await getAPI(`https://tv-web.api.vinasports.com.vn/api/v2/publish/see-more/events/${i.id}/?page_num=1&page_size=15`)
                 return `
-            <a href="/theThaoTongHop/index.html?slug=${i.id}">
+            <a href="https://lmg159z.github.io/soixamtv2/theThaoTongHop/index.html?slug=${i.id}">
                  <h2 class="section-header">${i.name}</h2>
             </a>
                  <div class="grid-layout-horizontal ">
@@ -74,7 +74,7 @@ function renderHTML(data) {
                 + i.url + "/index.m3u8"
         });
         return `
-    <a href="./stream/index.html?id=${base64}">
+    <a href="https://lmg159z.github.io/soixamtv2theThaoTongHop/stream/index.html?id=${base64}">
                     <div class="video-card">
                         <div class="thumb-wrapper">
                             <img src="${i.thumbnail_horizontal}" alt="${i.id}" class="thumb-img" loading="lazy">
