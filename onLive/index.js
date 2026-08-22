@@ -8,7 +8,7 @@
     const data = API?.data.map(i =>{
       // console.log(`https://stimg.onlive.vn/LOGO/${i.user_id.slice(2)}/${i.user_id}/${i.user_id}.jpg`)
         return `
-        <a href="/onLive/live/index.html?id=${i.user_id}" >
+        <a href="https://lmg159z.github.io/soixamtv2/onLive/live/index.html?id=${i.user_id}" >
             <div class="stream-card">
         <div class="thumb-box">
             <img src="${toHttps(i.thumb)}" alt="thumb">
