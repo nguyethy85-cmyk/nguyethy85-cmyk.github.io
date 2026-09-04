@@ -339,7 +339,7 @@
         },
         {
           "index": "an-ninh-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=an-ninh-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=an-ninh-hd",
           "preventive": null,
           "PRE": null,
           "APP": null,
@@ -439,7 +439,7 @@
         },
         {
           "index": "quoc-phong-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=quoc-phong-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=quoc-phong-hd",
           "preventive": null,
           "PRE": null,
           "APP": null,
@@ -539,7 +539,7 @@
         },
         {
           "index": "vtv1-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv1-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv1-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -656,7 +656,7 @@
         },
         {
           "index": "vtv2-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv2-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv2-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -756,7 +756,7 @@
         },
         {
           "index": "vtv3-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv3-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv3-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -848,7 +848,7 @@
         },
         {
           "index": "vtv4-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv4-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv4-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -940,7 +940,7 @@
         },
         {
           "index": "vtv5-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv5-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv5-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -1024,7 +1024,7 @@
         },
         {
           "index": "vtv5-tay-nam-bo",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv5-tay-nam-bo",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv5-tay-nam-bo",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1108,7 +1108,7 @@
         },
         {
           "index": "vtv5-tay-nguyen",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv5-tay-nguyen",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv5-tay-nguyen",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1208,7 +1208,7 @@
         },
         {
           "index": "vtv6-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv6-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv6-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": null,
@@ -1298,7 +1298,7 @@
         },
         {
           "index": "vtv7-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv7-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv7-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1390,7 +1390,7 @@
         },
         {
           "index": "vtv8-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv8-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv8-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1480,7 +1480,7 @@
         },
         {
           "index": "vtv9-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv9-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv9-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1580,7 +1580,7 @@
         },
         {
           "index": "vtv-can-tho",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vtv-can-tho",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vtv-can-tho",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -1672,7 +1672,7 @@
         },
         {
           "index": "vietnam-today",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vietnam-today",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vietnam-today",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -1754,7 +1754,7 @@
         },
         {
           "index": "vie-giai-tri-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=vie-giai-tri-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vie-giai-tri-hd",
           "preventive": null,
           "PRE": null,
           "APP": "VieON",
@@ -1826,7 +1826,7 @@
         },
         {
           "index": "vie-dramas-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=vie-dramas-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vie-dramas-hd",
           "preventive": null,
           "PRE": null,
           "APP": "VieON",
@@ -4064,7 +4064,7 @@
         },
         {
           "index": "htv1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4136,7 +4136,7 @@
         },
         {
           "index": "vie-channel-htv2-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vie-channel-htv2-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vie-channel-htv2-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4208,7 +4208,7 @@
         },
         {
           "index": "htv3",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv3",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv3",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4272,7 +4272,7 @@
         },
         {
           "index": "htv-key",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv-key",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv-key",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4344,7 +4344,7 @@
         },
         {
           "index": "htv7-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv7-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv7-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4425,7 +4425,7 @@
         },
         {
           "index": "htv-the-thao",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv-the-thao",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv-the-thao",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4497,7 +4497,7 @@
         },
         {
           "index": "htv9-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htv9-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htv9-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4570,7 +4570,7 @@
         },
         {
           "index": "htvc-ca-nhac",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-ca-nhac",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-ca-nhac",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4625,7 +4625,7 @@
         },
         {
           "index": "htvc-du-lich-cuoc-song",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-du-lich-cuoc-song",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-du-lich-cuoc-song",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4688,7 +4688,7 @@
         },
         {
           "index": "htvc-gia-dinh",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-gia-dinh",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-gia-dinh",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4751,7 +4751,7 @@
         },
         {
           "index": "htvc-phu-nu",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-phu-nu",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-phu-nu",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -4814,7 +4814,7 @@
         },
         {
           "index": "htvc-thuan-viet-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-thuan-viet-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-thuan-viet-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -5281,7 +5281,7 @@
         },
         {
           "index": "channel-news-asia-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=channel-news-asia-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=channel-news-asia-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -5345,7 +5345,7 @@
         },
         {
           "index": "dw-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dw-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dw-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -5409,7 +5409,7 @@
         },
         {
           "index": "france-24-english-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=france-24-english-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=france-24-english-hd",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -5481,7 +5481,7 @@
         },
         {
           "index": "nhk-world",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=nhk-world",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=nhk-world",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -5536,7 +5536,7 @@
         },
         {
           "index": "tv5-monde-asie",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=tv5-monde-asie",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=tv5-monde-asie",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -6411,7 +6411,7 @@
         },
         {
           "index": "bac-ninh-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=bac-ninh-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bac-ninh-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6486,7 +6486,7 @@
         },
         {
           "index": "da-nang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=da-nang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=da-nang-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6551,7 +6551,7 @@
         },
         {
           "index": "da-nang-2",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=da-nang-2",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=da-nang-2",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6635,7 +6635,7 @@
         },
         {
           "index": "dong-thap-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dong-thap-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dong-thap-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6709,7 +6709,7 @@
         },
         {
           "index": "dong-thap-2",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dong-thap-2",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dong-thap-2",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6793,7 +6793,7 @@
         },
         {
           "index": "ha-noi-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ha-noi-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ha-noi-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6868,7 +6868,7 @@
         },
         {
           "index": "ha-noi-2",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ha-noi-2",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ha-noi-2",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -6943,7 +6943,7 @@
         },
         {
           "index": "ha-tinh-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ha-tinh-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ha-tinh-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7018,7 +7018,7 @@
         },
         {
           "index": "hai-phong--2",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=hai-phong--2",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=hai-phong--2",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7093,7 +7093,7 @@
         },
         {
           "index": "khanh-hoa-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=khanh-hoa-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=khanh-hoa-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7167,7 +7167,7 @@
         },
         {
           "index": "binh-thuan-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=binh-thuan-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=binh-thuan-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7250,7 +7250,7 @@
         },
         {
           "index": "nghe-an-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=nghe-an-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=nghe-an-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7333,7 +7333,7 @@
         },
         {
           "index": "quang-ninh-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=quang-ninh-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=quang-ninh-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7398,7 +7398,7 @@
         },
         {
           "index": "quang-ninh-3",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=quang-ninh-3",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=quang-ninh-3",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7719,7 +7719,7 @@
         },
         {
           "index": "ca-mau-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ca-mau-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ca-mau-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7868,7 +7868,7 @@
         },
         {
           "index": "can-tho-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=can-tho-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=can-tho-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -7944,7 +7944,7 @@
         },
         {
           "index": "hau-giang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=hau-giang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=hau-giang-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8020,7 +8020,7 @@
         },
         {
           "index": "soc-trang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=soc-trang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=soc-trang-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8077,7 +8077,7 @@
         },
         {
           "index": "dak-lak",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dak-lak",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dak-lak",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8162,7 +8162,7 @@
         },
         {
           "index": "dien-bien-20",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dien-bien-20",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dien-bien-20",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8229,7 +8229,7 @@
         },
         {
           "index": "dong-nai-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dong-nai-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dong-nai-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8295,7 +8295,7 @@
         },
         {
           "index": "dong-nai-2",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dong-nai-2",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dong-nai-2",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8352,7 +8352,7 @@
         },
         {
           "index": "gia-lai-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=gia-lai-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=gia-lai-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8419,7 +8419,7 @@
         },
         {
           "index": "hai-phong-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=hai-phong-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=hai-phong-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8494,7 +8494,7 @@
         },
         {
           "index": "thua-thien-hue-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thua-thien-hue-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thua-thien-hue-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8561,7 +8561,7 @@
         },
         {
           "index": "hung-yen",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=hung-yen",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=hung-yen",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8730,7 +8730,7 @@
         },
         {
           "index": "ninh-binh-11",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ninh-binh-11",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ninh-binh-11",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8797,7 +8797,7 @@
         },
         {
           "index": "phu-tho",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=phu-tho",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=phu-tho",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8862,7 +8862,7 @@
         },
         {
           "index": "quang-ngai-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=quang-ngai-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=quang-ngai-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8927,7 +8927,7 @@
         },
         {
           "index": "kon-tum-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=kon-tum-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=kon-tum-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -8984,7 +8984,7 @@
         },
         {
           "index": "quang-tri-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=quang-tri-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=quang-tri-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9051,7 +9051,7 @@
         },
         {
           "index": "son-la",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=son-la",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=son-la",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9126,7 +9126,7 @@
         },
         {
           "index": "long-an-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=long-an-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=long-an-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9202,7 +9202,7 @@
         },
         {
           "index": "thanh-hoa-48",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thanh-hoa-48",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thanh-hoa-48",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9269,7 +9269,7 @@
         },
         {
           "index": "thai-nguyen-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thai-nguyen-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thai-nguyen-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9344,7 +9344,7 @@
         },
         {
           "index": "tuyen-quang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=tuyen-quang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=tuyen-quang-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9409,7 +9409,7 @@
         },
         {
           "index": "an-vien-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=an-vien-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=an-vien-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9456,7 +9456,7 @@
         },
         {
           "index": "htvc-phim",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-phim",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-phim",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9503,7 +9503,7 @@
         },
         {
           "index": "htvc-plus",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=htvc-plus",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=htvc-plus",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9550,7 +9550,7 @@
         },
         {
           "index": "an-giang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=an-giang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=an-giang-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9672,7 +9672,7 @@
         },
         {
           "index": "ninh-thuan-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ninh-thuan-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ninh-thuan-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9729,7 +9729,7 @@
         },
         {
           "index": "lang-son-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=lang-son-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=lang-son-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9786,7 +9786,7 @@
         },
         {
           "index": "lam-dong-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=lam-dong-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=lam-dong-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9852,7 +9852,7 @@
         },
         {
           "index": "thvl1-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thvl1-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thvl1-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -9927,7 +9927,7 @@
         },
         {
           "index": "thvl2-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thvl2-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thvl2-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -10002,7 +10002,7 @@
         },
         {
           "index": "thvl3-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thvl3-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thvl3-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -10059,7 +10059,7 @@
         },
         {
           "index": "thvl4-hd",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=thvl4-hd",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=thvl4-hd",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -10116,7 +10116,7 @@
         },
         {
           "index": "tra-vinh-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=tra-vinh-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=tra-vinh-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -10173,7 +10173,7 @@
         },
         {
           "index": "cartoon-network",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=cartoon-network",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=cartoon-network",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10229,7 +10229,7 @@
         },
         {
           "index": "cinema-world",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=cinema-world",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=cinema-world",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10276,7 +10276,7 @@
         },
         {
           "index": "discovery-asia",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=discovery-asia",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=discovery-asia",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10332,7 +10332,7 @@
         },
         {
           "index": "dreamworks-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=dreamworks-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dreamworks-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10379,7 +10379,7 @@
         },
         {
           "index": "kbs-world",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=kbs-world",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=kbs-world",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -10435,7 +10435,7 @@
         },
         {
           "index": "warner-tv",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=warner-tv",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=warner-tv",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10491,7 +10491,7 @@
         },
         {
           "index": "axn-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=axn-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=axn-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10547,7 +10547,7 @@
         },
         {
           "index": "abc-australia",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=abc-australia",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=abc-australia",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10603,7 +10603,7 @@
         },
         {
           "index": "bloomberg-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=bloomberg-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bloomberg-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10650,7 +10650,7 @@
         },
         {
           "index": "cnn-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=cnn-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=cnn-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10706,7 +10706,7 @@
         },
         {
           "index": "fashiontv",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=fashiontv",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=fashiontv",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -10744,7 +10744,7 @@
         },
         {
           "index": "france-24-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=france-24-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=france-24-1",
           "preventive": null,
           "PRE": "PRE | M3U8",
           "APP": "VieON",
@@ -11412,7 +11412,7 @@
         },
         {
           "index": "fm90-tin-tuc-giao-thong-ha-noi",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=fm90-tin-tuc-giao-thong-ha-noi",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=fm90-tin-tuc-giao-thong-ha-noi",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11451,7 +11451,7 @@
         },
         {
           "index": "fm96-thoi-su-ha-noi",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=fm96-thoi-su-ha-noi",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=fm96-thoi-su-ha-noi",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11490,7 +11490,7 @@
         },
         {
           "index": "voh-fm-99-9-mhz",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=voh-fm-99-9-mhz",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=voh-fm-99-9-mhz",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11519,7 +11519,7 @@
         },
         {
           "index": "voh-fm-95-6-mhz",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=voh-fm-95-6-mhz",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=voh-fm-95-6-mhz",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11548,7 +11548,7 @@
         },
         {
           "index": "voh-fm-87-7-mhz",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=voh-fm-87-7-mhz",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=voh-fm-87-7-mhz",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11577,7 +11577,7 @@
         },
         {
           "index": "voh-am-610-mhz",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=voh-am-610-mhz",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=voh-am-610-mhz",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11606,7 +11606,7 @@
         },
         {
           "index": "vohm-fm-92-92-5-mhz",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vohm-fm-92-92-5-mhz",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vohm-fm-92-92-5-mhz",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11786,7 +11786,7 @@
         },
         {
           "index": "dong-nai-3",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=dong-nai-3",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dong-nai-3",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -11864,7 +11864,7 @@
         },
         {
           "index": "boomerang-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=boomerang-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=boomerang-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -11909,7 +11909,7 @@
         },
         {
           "index": "cbeebies",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=cbeebies",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=cbeebies",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -11945,7 +11945,7 @@
         },
         {
           "index": "bbc-earth",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=bbc-earth",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bbc-earth",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -11981,7 +11981,7 @@
         },
         {
           "index": "bbc-lifestyle",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=bbc-lifestyle",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bbc-lifestyle",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -12017,7 +12017,7 @@
         },
         {
           "index": "bbc-world-news-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=bbc-world-news-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bbc-world-news-1",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -12087,7 +12087,7 @@
         },
         {
           "index": "discovery-channel",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=discovery-channel",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=discovery-channel",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -12132,7 +12132,7 @@
         },
         {
           "index": "dmax",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=dmax",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=dmax",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -12168,7 +12168,7 @@
         },
         {
           "index": "animal-planet",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=animal-planet",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=animal-planet",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -12213,7 +12213,7 @@
         },
         {
           "index": "travel-living",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=dash&id=travel-living",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=travel-living",
           "preventive": null,
           "PRE": "PRE | MPD",
           "APP": "VieON",
@@ -14000,7 +14000,7 @@
       "list": [
         {
           "index": "ba-ria-vung-tau-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=ba-ria-vung-tau-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=ba-ria-vung-tau-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -14018,7 +14018,7 @@
       "list": [
         {
           "index": "bnh-duong-1",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=bnh-duong-1",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=bnh-duong-1",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
@@ -14036,7 +14036,7 @@
       "list": [
         {
           "index": "vinh-long-audio",
-          "urlStream": "https://andanh.site/vieON/vieon.php?type=hls&id=vinh-long-audio",
+          "urlStream": "https://w-api.andanh.site/APP/vieON/tv.php?proxy=true&id=vinh-long-audio",
           "preventive": null,
           "PRE": "FREE | M3U8",
           "APP": "VieON",
